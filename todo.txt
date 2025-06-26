@@ -1,5 +1,5 @@
 - Read a book
 - Practice math = done
 - buy meat = done
-- go out
+- go out = done
 - Watch Git tutorial
